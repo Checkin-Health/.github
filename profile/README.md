@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-We are building checkin.health - Advanced health intelligence platform.
+We are building checkin.health - An advanced health intelligence platform.
+Launching soon. 
+Visit - https://checkin.health/
 
 <!--
 
